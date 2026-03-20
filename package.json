@@ -1,0 +1,26 @@
+{
+  "name": "house_pricing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maniesh6900/House_pricing_ML.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/maniesh6900/House_pricing_ML/issues"
+  },
+  "homepage": "https://github.com/maniesh6900/House_pricing_ML#readme"
+  ,
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
